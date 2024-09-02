@@ -1,0 +1,10 @@
+/mnt/c/pr12/programs/pr12/\wsl.localhostUbuntuhomedominiksol/sbf-solana-solana/release/deps/libsolana_frozen_abi-2d118fbffe57fbfa.rmeta: /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/lib.rs /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_digester.rs /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_example.rs /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/hash.rs
+
+/mnt/c/pr12/programs/pr12/\wsl.localhostUbuntuhomedominiksol/sbf-solana-solana/release/deps/libsolana_frozen_abi-2d118fbffe57fbfa.rlib: /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/lib.rs /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_digester.rs /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_example.rs /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/hash.rs
+
+/mnt/c/pr12/programs/pr12/\wsl.localhostUbuntuhomedominiksol/sbf-solana-solana/release/deps/solana_frozen_abi-2d118fbffe57fbfa.d: /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/lib.rs /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_digester.rs /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_example.rs /home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/hash.rs
+
+/home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/lib.rs:
+/home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_digester.rs:
+/home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/abi_example.rs:
+/home/dominik/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.23/src/hash.rs:
